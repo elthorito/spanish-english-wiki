@@ -23,7 +23,7 @@
 
 
 
-**4. The prefix `-mente` doesn't shift the accentuation. There's secondary stress, though**
+**4. The suffix `-mente` doesn't shift the accentuation. There's secondary stress, though**
 :large_orange_diamond: The accent marks is or is not used depending on the original word **primary** and `secondary` stress are maked like this.
 > **úl**•ti•ma → **úl**•ti•ma•`men`•te, **rá**•pi•do → **rá**•pi•da•`men`•te, e•vi•**den**•te → e•vi•**den**•te•`men`•te
 
