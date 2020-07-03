@@ -1,4 +1,5 @@
-### Gustar
+**Gustar**
+
 In Spanish, when we say we like something, the subject of the sentence is what is liked. Think of it as **This disgusts me → This
 gusts me → Eso me gusta**. This means the verb is conjugated based on what is liked.
 
