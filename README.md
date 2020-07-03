@@ -1,5 +1,5 @@
 ## Spanish-English GitHub page
-Article index kurwamać
+Article index
 
 ### Grammar articles
 
