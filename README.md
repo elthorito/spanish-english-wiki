@@ -1,5 +1,6 @@
-## Spanish-English GitHub page
-Article index
+## Articles about Spanish and English
+Our collection of articles and resources for learning Spanish and English, they contain explanations of various topics related to the two languages and links to further resources.
+
 
 ### Grammar articles
 
