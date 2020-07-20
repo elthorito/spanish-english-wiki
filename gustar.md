@@ -27,3 +27,5 @@ If the "object" (the one who likes) is obvious from the context, `A [pronoun/nam
 + No me gustó esa película
 - A mí me gustó
 ```
+
+keywords: verbs, verbos, gustar
