@@ -1,6 +1,7 @@
 **Las oraciones condicionales:**
 
-«Si [prótasis], [apódosis]» → «Si llueve, me quedaré en casa»
+
+**«Si [prótasis], [apódosis]» → «Si llueve, me quedaré en casa»**
 Prótasis: llueve
 Apódosis: me quedaré en casa
 
@@ -40,13 +41,20 @@ Apódosis: imperfect indicative
 Prótasis: past perfect subjunctive (-ra/-se)
 Apódosis: past perfect subjunctive (preferably -ra but also -se) or conditional (simple or perfect)
 
+> Si hubieras/hubieses estudiado, habrías/hubieras/(hubieses) aprobado.
+> Si hubiera/hubiese terminado los estudios, hoy tendría un trabajo mejor.
 
-**4) Future Subj (Real):**
+Prótasis: imperfect subjunctive (-ra/-se)
+Apódosis: conditional perfect
+
+> Si estuvieras más atento en clase, habrías obtenido mejor calificación.
+
+
+**4) Real (Future Subj.):**
 Prótasis: future subjunctive or future perfect subjunctive
 Apódosis: future
 
+> Si no se presentare el escrito en el plazo indicado, el demandante perderá sus derechos
+> Si el solicitante no hubiere acreditado suficientemente sus méritos, se considerará inválida su petición.
 
-<https://zonaele.com/condicionales-tipos-de-oraciones-condicionales/>
- 
-https://i2.wp.com/lenguajeyotrasluces.com/wp-content/uploads/2015/02/oraciones-condicionales1.png
-
+Fuente: <https://www.rae.es/dpd/si> (1.1)
