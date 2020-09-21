@@ -1,7 +1,7 @@
 **La RAE:**
 
 
-(DLE) *Diccionario de la lengua española:
+(DLE) *Diccionario de la lengua española*:
 <https://dle.rae.es/>
 
 
