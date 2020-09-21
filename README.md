@@ -18,6 +18,9 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Have](./have.md): The difference between haber and tener
 
 
+[Molestar](./molestar.md): Los verbos de *afección psíquica* [A guide with tendencies, not strict rules]
+
+
 [Puntuacion](./puntuacion.md): Punctuation marks in Spanish
 
 
@@ -33,3 +36,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 ### English
 [Conditionals](./conditionals.md): Conditional [if] clauses
 
+
+### Others
+
+[Todo](./todo.md): To-do list
