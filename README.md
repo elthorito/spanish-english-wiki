@@ -36,6 +36,9 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Puntuación](./puntuacion.md): Punctuation marks in Spanish
 
 
+[Queísmo](./queismo.md): De/Queísmo
+
+
 [RAE](./rae.md): RAE resources
 
 
