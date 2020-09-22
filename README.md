@@ -52,7 +52,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Punctuation](./punctuation.md): (US) English punctuation guide
 
 
-[US-Idioms](./us-idiomas.md): *In the Loop*: A Reference Guide to American English Idioms (PDF)
+[US-Idioms](./us-idioms.md): *In the Loop*: A Reference Guide to American English Idioms (PDF)
 
 
 ### Others
