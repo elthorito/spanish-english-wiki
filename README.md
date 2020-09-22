@@ -6,7 +6,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Acento](./acento.md): A map with accents in Spanish
 
 
-[Agua](./agua.md): Feminine nouns with initial `a` stressed
+[Agua](./agua.md): Feminine nouns with initial `a` stressed (alias: el-agua)
 
 
 [Caribe](./caribe.md): Caribe map
@@ -21,10 +21,16 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Gustar](./gustar.md): An explanation of how to use the verb "gustar"
 
 
-[Have](./have.md): The difference between haber and tener
+[Have](./have.md): The difference between haber and tener (alias: haber-tener)
 
 
 [Molestar](./molestar.md): Los verbos de *afección psíquica* [A guide with tendencies, not strict rules]
+
+
+[Object](./object.md): In/Direct Object pronouns
+
+
+[Pronouns](./pronouns.md): Kwasi's table with pronouns
 
 
 [Puntuación](./puntuacion.md): Punctuation marks in Spanish
