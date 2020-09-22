@@ -1,4 +1,5 @@
-**Tildes 2/5**
+**Tildes 2/5**: Hiatos, diptongos, triptongos
+
 
 Shortcuts:
 

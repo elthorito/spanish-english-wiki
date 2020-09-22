@@ -1,4 +1,4 @@
-**Tildes 5/5**
+**Tildes 5/5**: Imperativo
 
 
 **The pronouns attached to the imperative/infinitive don't shift the accentuation and take the accent mark if it's necessary**

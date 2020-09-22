@@ -1,6 +1,6 @@
-**Tildes 3/5**
+**Tildes 3/5**: Exclamativas, interrogativas
 
-**This set of words take the accent mark if they work as a question or exclamaiton**
+**This set of words take the accent mark if they work as a question or exclamation**
 
 qué,
 cuál, cuáles
