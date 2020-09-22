@@ -44,8 +44,13 @@ Feminine nouns that start with an accentuated `a` in singular take masculine art
 
 ^ A not accentuated
 
+
 \* The word *azúcar* is either feminine or masculine. It can take either masculine or feminine articles even though the accentuated syllable is `zu`
 
+
+
 (m) el azúcar / los azúcares
+
 (f) la azúcar / las azúcares
-\*(f) el azúcar / las azúcares
+
+* - (f) el azúcar / las azúcares
