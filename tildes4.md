@@ -45,8 +45,8 @@ Monosyllabic homophones that use the accent mark:
 
 **aun** – even (~= incluso)
 
-**aún** – still/yet (~=todavía) (read more: `... aun2`)
+**aún** – still/yet (~=todavía) (read more: `,,,aun`)
 
 
 
-Continue: `... tildes5`
+Continue: `,,,tildes5`

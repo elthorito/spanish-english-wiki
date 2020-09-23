@@ -20,9 +20,11 @@ Dar pena/vergüenza/miedo/risa/rabia etc. (de) que [without de preferred in form
 
 
 
-advertir, avisar, informar **de** algo [a alguien]
+advertir, avisar, informar algo a alguien
 
-advertir, avisar, informar algo [a alguien]
+
+advertir, avisar, informar a alguien **de** algo
+
 
 
 

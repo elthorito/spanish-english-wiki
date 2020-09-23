@@ -34,7 +34,7 @@ Shortcuts:
 
 
 
-**3. If a W has an accent mark, it's treated as a strong vowel and is accentuated **
+**3. If a W has an accent mark, it's treated as a strong vowel and is accentuated**
 
 > An•da•lu•**cí**•a, **rí**•o, cre•**í**, Hung•**rí**•a, ma•**íz\***, **bú**•ho**\***
 
@@ -57,4 +57,4 @@ Shortcuts:
 
 
 
-Continue: `... tildes3`
+Continue: `,,,tildes3`
