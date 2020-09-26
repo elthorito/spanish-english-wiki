@@ -45,7 +45,10 @@ Our collection of articles and resources for learning Spanish and English, they 
 [RAE](./rae.md): RAE resources
 
 
-[Subj2](./subj2.md): PDF about the subjunctive
+[Se](./se.md): Uses of 'se'
+
+
+[Subj](./subj.md): PDF about the subjunctive (alias: Subjuntivo)
 
 
 [Es-Syntax](./es-syntax.md): Syntax guide (PDF)
