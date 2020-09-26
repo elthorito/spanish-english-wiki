@@ -9,6 +9,9 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Agua](./agua.md): Feminine nouns with initial `a` stressed (alias: el-agua)
 
 
+[Aún/Aun](./aún.md): **Aún** vs **Aun** examples
+
+
 [Caribe](./caribe.md): Caribe map
 
 
@@ -36,7 +39,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Puntuación](./puntuacion.md): Punctuation marks in Spanish
 
 
-[Queísmo](./queismo.md): De/Queísmo
+[Queísmo](./queismo.md): De/Queísmo ([Queísmo2](./queismo.md))
 
 
 [RAE](./rae.md): RAE resources
@@ -62,6 +65,9 @@ Our collection of articles and resources for learning Spanish and English, they 
 
 
 [Punctuation](./punctuation.md): (US) English punctuation guide
+
+
+[Style](./style.md): (US) More punctuation and text-editing
 
 
 [US-Idioms](./us-idioms.md): *In the Loop*: A Reference Guide to American English Idioms (PDF)

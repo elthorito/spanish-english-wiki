@@ -1,5 +1,4 @@
 **TO-DO LIST**
 
-- Voseo
-- Queísmo
 - Leísmo
+- Transfer Nadeko
