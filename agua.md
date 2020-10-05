@@ -33,13 +33,13 @@ Feminine nouns that start with an accentuated `a` in singular take masculine art
 + otra ave
 ```
 
-**¡Ojos!**
+**¡Ojo!**
 
 
 ```diff
 + la aguita
 
-- el aquita
+- el aguita
 ```
 
 ^ A not accentuated
@@ -54,3 +54,8 @@ Feminine nouns that start with an accentuated `a` in singular take masculine art
 (f) la azúcar / las azúcares
 
 * - (f) el azúcar / las azúcares
+
+
+fuente: <https://rae.es/dpd/el#21>
+
+<https://rae.es/dpd/azúcar>
