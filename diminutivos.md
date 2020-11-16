@@ -1,0 +1,1 @@
+https://cdn.discordapp.com/attachments/243858509123289089/727252242062901288/Diminutivos_del_espaC3B1ol_y_del_portuguC3A9s.png
