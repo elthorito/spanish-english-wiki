@@ -3,22 +3,43 @@ Our collection of articles and resources for learning Spanish and English, they 
 
 
 ### Spanish
+[Aca](./aca.md): **Aquí** vs. **Acá** / **Ahí** / **Allí** vs. **Allá**
+
+
 [Acento](./acento.md): A map with accents in Spanish
 
 
 [Agua](./agua.md): Feminine nouns with initial `a` stressed (alias: el-agua)
 
 
-[Aún/Aun](./aún.md): **Aún** vs **Aun** examples
+[Aun](./aún.md): **Aún** vs **Aun** examples
+
+
+[Bueno-malo](./bueno-malo.md): Bueno/Malo with Ser/Estar
 
 
 [Caribe](./caribe.md): Caribe map
 
 
+[Chingonario](./chingonario.md): El Chingonario
+
+
 [Condicionales](./condicionales.md): Conditional [Si] clauses
 
 
-[Grammar2](./grammar2.md): A website with grammar [100% in Spanish]
+[Course](./course.md): Language Transfer course (Spanish and English)
+
+
+[Diminutivos](./diminutivos.md): Diminutive suffix in Spain
+
+
+[Es-podcasts](./es-podcasts.md): Podcasts in Spanish
+
+
+[Es-reading](./es-reading.md): Reading in Spanish
+
+
+[Grammar](./grammar.md): A website with grammar [100% in Spanish]
 
 
 [Gustar](./gustar.md): An explanation of how to use the verb "gustar"
@@ -27,10 +48,31 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Have](./have.md): The difference between haber and tener (alias: haber-tener)
 
 
-[Molestar](./molestar.md): Los verbos de *afección psíquica* [A guide with tendencies, not strict rules]
+[Help](./help.md): Help page for Citero (bot)
+
+
+[Internacional](./internacional.md): US International keyboard (alias: intl)
+
+
+[IPA](./ipa.md): Extended IPA chart (International Phonetic Alphabet)
+
+
+[Molestar](./molestar.md): Los verbos de *afección psíquica* \[A guide with tendencies, not strict rules\] (alias: afeccion)
 
 
 [Object](./object.md): In/Direct Object pronouns
+
+
+[Past](./past.md): Perfecting the Past in Spanish
+
+
+[Perifrasis](./perifrasis.md): Verbal Periphrases in Spanish (llevar +gerundio etc.)
+
+
+[Por-para](./por-para.md): **Por** vs. **Para** (alias: para-por)
+
+
+[Preteritos](./preteritos.md): espanolavanzado.com articles about pret. vs. imprf.
 
 
 [Pronouns](./pronouns.md): Kwasi's table with pronouns
@@ -40,6 +82,9 @@ Our collection of articles and resources for learning Spanish and English, they 
 
 
 [Queísmo](./queismo.md): De/Queísmo ([Queísmo2](./queismo.md))
+
+
+[R](./r.md): Alveolar trill (alias: rollr)
 
 
 [RAE](./rae.md): RAE resources
@@ -54,17 +99,32 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Es-Syntax](./es-syntax.md): Syntax guide (PDF)
 
 
+[Ser-estar](./ser-estar.md): Ser vs. Estar
+
+
 [Tiempos](./tiempos.md): Spanish Tenses
 
 
 [Tildes](./tildes.md): Tildes guide ([Tildes2](./tildes2.md), [Tildes3](./tildes3.md), [Tildes4](./tildes4.md), [Tildes5](./tildes5.md))
 
 
-[Yo](./yo.md): Y/O conjunction changes
+[Voseo](./voseo.md): Voseo (work in progress)
+
+
+[Ya](./ya.md): Uses of Ya
+
+
+[Yo](./yo.md): Y/O conjunctions changes (alias: y-o)
 
 
 ### English
 [Conditionals](./conditionals.md): Conditional [if] clauses
+
+
+[Course](./course.md): Language Transfer course (Spanish and English)
+
+
+[Do-make](./do-make.md): Do vs. Make
 
 
 [Punctuation](./punctuation.md): (US) English punctuation guide
@@ -77,5 +137,4 @@ Our collection of articles and resources for learning Spanish and English, they 
 
 
 ### Others
-
 [Todo](./todo.md): To-do list

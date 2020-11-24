@@ -1,4 +1,6 @@
 **TO-DO LIST**
 
 - Leísmo
-- Update README
+- Voseo (updt)
+- ~~Update README~~
+- Bizz i Zev
