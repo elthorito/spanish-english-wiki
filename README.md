@@ -9,7 +9,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Acento](./acento.md): A map with accents in Spanish
 
 
-[Agua](./agua.md): Feminine nouns with initial `a` stressed (alias: el-agua)
+[Agua](./agua.md): Feminine nouns with initial `a` stressed (alias: `el-agua`)
 
 
 [Aun](./aún.md): **Aún** vs **Aun** examples
@@ -45,19 +45,19 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Gustar](./gustar.md): An explanation of how to use the verb "gustar"
 
 
-[Have](./have.md): The difference between haber and tener (alias: haber-tener)
+[Have](./have.md): The difference between haber and tener (alias: `haber-tener`)
 
 
 [Help](./help.md): Help page for Citero (bot)
 
 
-[Internacional](./internacional.md): US International keyboard (alias: intl)
+[Internacional](./internacional.md): US International keyboard (alias: `intl`)
 
 
 [IPA](./ipa.md): Extended IPA chart (International Phonetic Alphabet)
 
 
-[Molestar](./molestar.md): Los verbos de *afección psíquica* \[A guide with tendencies, not strict rules\] (alias: afeccion)
+[Molestar](./molestar.md): Los verbos de *afección psíquica* \[A guide with tendencies, not strict rules\] (alias: `afeccion`)
 
 
 [Object](./object.md): In/Direct Object pronouns
@@ -69,7 +69,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Perifrasis](./perifrasis.md): Verbal Periphrases in Spanish (llevar +gerundio etc.)
 
 
-[Por-para](./por-para.md): **Por** vs. **Para** (alias: para-por)
+[Por-para](./por-para.md): **Por** vs. **Para** (alias: `para-por`)
 
 
 [Preteritos](./preteritos.md): espanolavanzado.com articles about pret. vs. imprf.
@@ -84,7 +84,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Queísmo](./queismo.md): De/Queísmo ([Queísmo2](./queismo.md))
 
 
-[R](./r.md): Alveolar trill (alias: rollr)
+[R](./r.md): Alveolar trill (alias: `rollr`)
 
 
 [RAE](./rae.md): RAE resources
@@ -93,7 +93,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Se](./se.md): Uses of 'se'
 
 
-[Subj](./subj.md): PDF about the subjunctive (alias: Subjuntivo)
+[Subj](./subj.md): PDF about the subjunctive (alias: `Subjuntivo`)
 
 
 [Es-Syntax](./es-syntax.md): Syntax guide (PDF)
@@ -114,7 +114,7 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Ya](./ya.md): Uses of Ya
 
 
-[Yo](./yo.md): Y/O conjunctions changes (alias: y-o)
+[Yo](./yo.md): Y/O conjunctions changes (alias: `y-o`)
 
 
 ### English
