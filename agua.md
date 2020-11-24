@@ -24,7 +24,7 @@ Feminine nouns that start with an accentuated `a` in singular take masculine art
 
 + ningún arma
 
-+ algun arma
++ algún arma
 
 - este arma
 

@@ -1,9 +1,9 @@
 ## Articles about Spanish and English
-Our collection of articles and resources for learning Spanish and English, they contain explanations of various topics related to the two languages and links to further resources.
+Our collection of articles containing explanations and links to resources for Spanish and English. 
 
 
 ### Spanish
-[Aca](./aca.md): **Aquí** vs. **Acá** / **Ahí** / **Allí** vs. **Allá**
+[Acá](./aca.md): **Aquí** vs. **Acá** / **Ahí** / **Allí** vs. **Allá**
 
 
 [Acento](./acento.md): A map with accents in Spanish
@@ -66,13 +66,13 @@ Our collection of articles and resources for learning Spanish and English, they 
 [Past](./past.md): Perfecting the Past in Spanish
 
 
-[Perifrasis](./perifrasis.md): Verbal Periphrases in Spanish (llevar +gerundio etc.)
+[Perífrasis](./perifrasis.md): Verbal Periphrases in Spanish (llevar +gerundio etc.)
 
 
 [Por-para](./por-para.md): **Por** vs. **Para** (alias: `para-por`)
 
 
-[Preteritos](./preteritos.md): espanolavanzado.com articles about pret. vs. imprf.
+[Pretéritos](./preteritos.md): espanolavanzado.com articles about pret. vs. imprf.
 
 
 [Pronouns](./pronouns.md): Kwasi's table with pronouns

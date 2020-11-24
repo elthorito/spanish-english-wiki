@@ -7,10 +7,10 @@
 
 `Haber` Is used mainly as an auxiliary verb in tenses like the present perfect [`haber + past participle`] (i.e. I have been).
 
-> **He** estado aqui antes  [I**'ve** been here before]
+> **He** estado aquí antes.  [I**'ve** been here before]
 
 
-It's also used impersonally to say "there is/are" with `hay` (always with indefinite article `un`/`una` or no article in plural)
+It's also used impersonally to say "there is/are" with `hay` (**never** followed by nouns proceded by definite articles [`el`/`los`/`la`/`las`)
 
 > **Hay** un lápiz sobre la mesa [**there's a** pencil on the table]
 
