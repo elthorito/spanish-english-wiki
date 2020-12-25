@@ -57,6 +57,9 @@ Our collection of articles containing explanations and links to resources for Sp
 [IPA](./ipa.md): Extended IPA chart (International Phonetic Alphabet)
 
 
+[Llamar](./llamar.md): The verb Llamar (llamarla/llamerle??) ([llamar2](./llamar2.md))
+
+
 [Molestar](./molestar.md): Los verbos de *afección psíquica* \[A guide with tendencies, not strict rules\] (alias: `afeccion`)
 
 
