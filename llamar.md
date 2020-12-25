@@ -35,6 +35,7 @@
 > «¡No llames víbora a mi mujer!» (Gallego Adelaida [Esp. 1990]).
 
 
+
 • The alternation between direct and indirect (`le(s)`) pronouns is present, though (predominantly in impersonal sentences, with neutral pronouns [eso/esto]). Sometimes appears when both objects are mentioned; it follows the same pattern the verb *decir* does:
 
 > «A esta operación de unir los surcos se le llamaba “mancornar”, y el riego era “de dos apantles”» (Tortolero, Agua) (impersonal);
