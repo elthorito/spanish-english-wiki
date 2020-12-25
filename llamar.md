@@ -1,12 +1,6 @@
 **LLamar**
 
 
-0) LLamarse (to be called/to have a name): Pronominal:
-
-> «El que ***SE*** llamaba Felipe ha muerto llamándo***se*** Mateo Bejarano» (Chacón, Voz).
-
-
-
 1) Llamar (to call/summon): Is always transitive:
 
 > «Fue el propio Ambrosio quien ***LO*** llamó desde la puerta» (CBonald Noche [Esp. 1981]). 
