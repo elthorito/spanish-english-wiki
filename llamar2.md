@@ -11,8 +11,8 @@
 
 • The alternation between direct and indirect (`le(s)`) pronouns is present, though (predominantly in impersonal sentences, with neutral pronouns [eso/esto]). Sometimes appears when both objects are mentioned; it follows the same pattern the verb *decir* does:
 
-> «A esta operación de unir los surcos se ***LE*** llamaba “mancornar”, y el riego era “de dos apantles”» (Tortolero, Agua) (impersonal);
-> «¿Y a eso ***LE*** llamas amistad?» (Salisachs, Gangrena) (neuter pronoun);
+> «A esta operación de unir los surcos se **LE** llamaba “mancornar”, y el riego era “de dos apantles”» (Tortolero, Agua) (impersonal);
+> «¿Y a eso **LE** llamas amistad?» (Salisachs, Gangrena) (neuter pronoun);
 > «En España a la papa ***LE*** llaman patata»  (Huneeus Cocina [Chile 1989]) (both objects).
 
 
