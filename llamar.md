@@ -14,7 +14,7 @@
 
 
 
-2) Llamar (to call on the phone call): Is dominantly and preferably transitive but can be intransitive:
+2) Llamar (to call on the phone): Is dominantly and preferably transitive but can be intransitive:
 
 > «No hace mucho **LO** llamó por teléfono un tipo de voz imperiosa» (Galeano Días [Ur. 1978]);
 > «**LO** llamó por teléfono para decirle que tenía su entera confianza» (Herrero Ocaso [Esp. 1995]).
