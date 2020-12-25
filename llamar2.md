@@ -13,7 +13,7 @@
 
 > «A esta operación de unir los surcos se **LE** llamaba “mancornar”, y el riego era “de dos apantles”» (Tortolero, Agua) (impersonal);
 > «¿Y a eso **LE** llamas amistad?» (Salisachs, Gangrena) (neuter pronoun);
-> «En España a la papa ***LE*** llaman patata»  (Huneeus Cocina [Chile 1989]) (both objects).
+> «En España a la papa **LE** llaman patata»  (Huneeus Cocina [Chile 1989]) (both objects).
 
 
 
