@@ -35,7 +35,15 @@
 > «¡No llames víbora a mi mujer!» (Gallego Adelaida [Esp. 1990]).
 
 
-• The alternation between direct and indirect (`le(s)`) pronouns is present, though (especially when both objects are mentioned orin impersonal sentences):
+• The alternation between direct and indirect (`le(s)`) pronouns is present, though (predominantly in impersonal sentences, with neutral pronouns [eso/esto]). Sometimes appears when both objects are mentioned; it follows the same pattern the verb *decir* does:
 
-> «En España a la papa ***LE*** llaman patata» (Huneeus Cocina [Chile 1989]).
-> «acabo de buscarlo, se ***LE*** llama "superlativo relativo" xd» 
+> «A esta operación de unir los surcos se le llamaba “mancornar”, y el riego era “de dos apantles”» (Tortolero, Agua) (impersonal);
+> «¿Y a eso le llamas amistad?» (Salisachs, Gangrena) (neuter pronoun);
+> «En España a la papa ***LE*** llaman patata»  (Huneeus Cocina [Chile 1989]) (both objects).
+
+
+
+Fuente: DPD: <https://www.rae.es/dpd/llamar>
+
+
+NGLE §16.9g-i: <http://aplica.rae.es/grweb/cgi-bin/v.cgi?i=SGiRZFiwkczjgtOJ>
