@@ -4,7 +4,7 @@
 
 0) LLamarse (to be called/have a name): Pronominal:
 
-> «El que **SE** llamaba Felipe ha muerto llamándose Mateo Bejarano» (Chacón, Voz).
+> «El que **SE** llamaba Felipe ha muerto llamándo**se** Mateo Bejarano» (Chacón, Voz).
 
 
 
