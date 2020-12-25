@@ -13,7 +13,7 @@
 
 
 
-2) LLamar (to call on the phone call): Is dominantly and preferably transitive but can be intransitive:
+2) (to call on the phone call): Is dominantly and preferably transitive but can be intransitive:
 
 > «No hace mucho ***LO*** llamó por teléfono un tipo de voz imperiosa» (Galeano Días [Ur. 1978]);
 > «***LO*** llamó por teléfono para decirle que tenía su entera confianza» (Herrero Ocaso [Esp. 1995]).
@@ -23,13 +23,13 @@
 
 
 
-3) LLamar (to knock/make a sound to signal a desire to enter somewhere): Intransitive, the object introduced by the preposition **a**:
+3) (to knock/make a sound to signal a desire to enter somewhere): Intransitive, the object introduced by the preposition **a**:
 
 > «Apenas cuelga, llaman **a** la puerta» (Martínez Vuelo [Arg. 2002]).
 
 
 
-4) LLamar (to call X Y): Normally takes two direct objects (a name [1], and a named object [2]. The latter is introduced by the preposition **a**). It's recommended that the direct object pronouns `lo(s)`, `la(s)` be used since passive voice (*La niña fue llamada Juana*) is valid:
+4) (to apply a name): Takes two direct objects (a name [1], and a named object [2]. The latter is introduced by the preposition **a**). It's recommended that the direct object pronouns `lo(s)`, `la(s)` be used since passive voice (*La niña fue llamada Juana*) is valid:
 
 > «Vino al mundo un niño a quien llamaron Rolf» (Allende Eva [Chile 1987]);
 > «¡No llames víbora a mi mujer!» (Gallego Adelaida [Esp. 1990]).
