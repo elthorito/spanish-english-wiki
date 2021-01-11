@@ -9,8 +9,14 @@ Pareció/parecía:
 <https://www.espanolavanzado.com/gramatica-tips/1452-imperfecto-preterito-indefinido-verbo-parecer>
 Quise/quería:
 <https://www.espanolavanzado.com/gramatica-tips/1438-quise-queria>
-Verbos "especiales":
+Verbos *especiales*:
 <https://www.espanolavanzado.com/gramatica-tips/1728-haber-tener-saber-preterito-indefinido-imperfecto>
-
-Imperfecto vs Imperfecto progresivo (cantaba vs estaba estaba)
+Imperfecto vs Imperfecto progresivo (cantaba vs estaba cantando):
 <https://www.espanolavanzado.com/gramatica-avanzada/492-hablaba-estaba-hablando>
+
+
+
+**cuadernoscervantes.com**
+
+El pretérito y el imperfecto:
+<http://www.cuadernoscervantes.com/ele_52_preterito.html>
