@@ -2,5 +2,4 @@
 
 - Leísmo
 - Voseo (updt)
-test
 - ~~Update README~~
