@@ -1,5 +1,5 @@
 **TO-DO LIST**
 
 - Leísmo
-- Voseo (updt)
+- ~~Voseo (updt)~~
 - ~~Update README~~
